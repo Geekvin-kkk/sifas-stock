@@ -291,12 +291,27 @@ window.SIFAS_PRODUCTS = [
     "dimensions": "101 x 90 x 77 cm",
     "price": 7670,
     "currency": "¥",
-    "status": "in_production",
+    "status": "in_stock",
     "image": "assets/products/p018_00.jpg",
     "sourcePage": 18,
     "sourceNote": "PDF 自动提取",
-    "availableConfigurations": [],
-    "stockNote": "库存表未匹配到完整现货配置"
+    "availableConfigurations": [
+      {
+        "variantId": "BASK90AL08LY03",
+        "productRef": "BASK90",
+        "frameColor": "灰色",
+        "tabletopType": "",
+        "tabletopColor": "",
+        "material": "灰色织带",
+        "status": "in_stock",
+        "quantity": 8,
+        "sourceCodes": [
+          "BASK90AL08LY03"
+        ],
+        "note": "可用 8 · 灰色 / 灰色织带"
+      }
+    ],
+    "stockNote": "1 个完整现货配置"
   },
   {
     "id": "bask26",
@@ -1307,15 +1322,30 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "",
         "status": "in_stock",
-        "quantity": 2,
+        "quantity": 5,
         "sourceCodes": [
           "HIPS91BAL04",
           "HIPS91TAL04"
         ],
-        "note": "可售 2 · 底座 4 / 桌面 2"
+        "note": "可售 5 · 底座 5 / 桌面 5"
+      },
+      {
+        "variantId": "HIPS91BLE04+HIPS91TLE04",
+        "productRef": "HIPS91",
+        "frameColor": "黑色",
+        "tabletopType": "桌面",
+        "tabletopColor": "",
+        "material": "",
+        "status": "in_stock",
+        "quantity": 8,
+        "sourceCodes": [
+          "HIPS91BLE04",
+          "HIPS91TLE04"
+        ],
+        "note": "可售 8 · 底座 8 / 桌面 8"
       }
     ],
-    "stockNote": "1 个完整现货配置"
+    "stockNote": "2 个完整现货配置"
   },
   {
     "id": "kali21l",
@@ -1746,7 +1776,7 @@ window.SIFAS_PRODUCTS = [
     "name": "KONI1",
     "description": "Rectangular Dining Table",
     "dimensions": "180 x 90 x 75 cm",
-    "price": 7730,
+    "price": 12670,
     "currency": "¥",
     "status": "in_stock",
     "image": "assets/products/p076_01.jpg",
@@ -1913,7 +1943,7 @@ window.SIFAS_PRODUCTS = [
     "name": "KONI2",
     "description": "Rectangular Dining Table",
     "dimensions": "150 x 80 x 75 cm",
-    "price": 7290,
+    "price": 10760,
     "currency": "¥",
     "status": "in_production",
     "image": "assets/products/p076_06.jpg",
@@ -1929,7 +1959,7 @@ window.SIFAS_PRODUCTS = [
     "name": "KONI3",
     "description": "Rectangular Dining Table",
     "dimensions": "240 x 100 x 75 cm",
-    "price": 8540,
+    "price": 15610,
     "currency": "¥",
     "status": "in_stock",
     "image": "assets/products/p076_07.jpg",
@@ -2006,7 +2036,7 @@ window.SIFAS_PRODUCTS = [
     "name": "KONI8",
     "description": "Dining Table",
     "dimensions": "100 x 90 x 75 cm",
-    "price": 6690,
+    "price": 9370,
     "currency": "¥",
     "status": "in_stock",
     "image": "assets/products/p076_00.jpg",
@@ -2378,12 +2408,27 @@ window.SIFAS_PRODUCTS = [
     "dimensions": "95.5 x 75.5 x 68 cm",
     "price": 9820,
     "currency": "¥",
-    "status": "in_production",
+    "status": "in_stock",
     "image": "assets/products/p088_01.jpg",
     "sourcePage": 88,
     "sourceNote": "PDF 自动提取",
-    "availableConfigurations": [],
-    "stockNote": "库存表未匹配到完整现货配置"
+    "availableConfigurations": [
+      {
+        "variantId": "KROS23LE04ME54",
+        "productRef": "KROS23",
+        "frameColor": "黑色",
+        "tabletopType": "",
+        "tabletopColor": "",
+        "material": "",
+        "status": "in_stock",
+        "quantity": 17,
+        "sourceCodes": [
+          "KROS23LE04ME54"
+        ],
+        "note": "可用 17 · 黑色"
+      }
+    ],
+    "stockNote": "1 个完整现货配置"
   },
   {
     "id": "kros24",
@@ -2463,6 +2508,20 @@ window.SIFAS_PRODUCTS = [
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [
       {
+        "variantId": "KROS5LE04ME54",
+        "productRef": "KROS5",
+        "frameColor": "黑色",
+        "tabletopType": "",
+        "tabletopColor": "",
+        "material": "",
+        "status": "in_stock",
+        "quantity": 8,
+        "sourceCodes": [
+          "KROS5LE04ME54"
+        ],
+        "note": "可用 8 · 黑色"
+      },
+      {
         "variantId": "KROS5SOCK",
         "productRef": "KROS5",
         "frameColor": "",
@@ -2477,7 +2536,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 20"
       }
     ],
-    "stockNote": "1 个完整现货配置"
+    "stockNote": "2 个完整现货配置"
   },
   {
     "id": "kros9",
@@ -2564,11 +2623,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "",
         "status": "in_stock",
-        "quantity": 2,
+        "quantity": 1,
         "sourceCodes": [
           "KROS18LE04"
         ],
-        "note": "可用 2 · 黑色"
+        "note": "可用 1 · 黑色"
       }
     ],
     "stockNote": "1 个完整现货配置"
@@ -2679,6 +2738,20 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 16 · 摩卡色"
       },
       {
+        "variantId": "KWAD25SAL04PF01",
+        "productRef": "KWAD25S",
+        "frameColor": "白色",
+        "tabletopType": "",
+        "tabletopColor": "",
+        "material": "白色网布",
+        "status": "in_stock",
+        "quantity": 17,
+        "sourceCodes": [
+          "KWAD25SAL04PF01"
+        ],
+        "note": "可用 17 · 白色 / 白色网布"
+      },
+      {
         "variantId": "KWAD25STADLE13",
         "productRef": "KWAD25S",
         "frameColor": "摩卡色",
@@ -2693,7 +2766,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 15 · 摩卡色"
       }
     ],
-    "stockNote": "2 个完整现货配置"
+    "stockNote": "3 个完整现货配置"
   },
   {
     "id": "kwad4s",
@@ -2794,12 +2867,27 @@ window.SIFAS_PRODUCTS = [
     "dimensions": "48 x 48 x 33 cm",
     "price": 3130,
     "currency": "¥",
-    "status": "in_production",
+    "status": "in_stock",
     "image": "assets/products/p096_04.jpg",
     "sourcePage": 96,
     "sourceNote": "PDF 自动提取",
-    "availableConfigurations": [],
-    "stockNote": "库存表未匹配到完整现货配置"
+    "availableConfigurations": [
+      {
+        "variantId": "KWAD27NAL02SU04",
+        "productRef": "KWAD27N",
+        "frameColor": "摩卡色",
+        "tabletopType": "玻璃",
+        "tabletopColor": "摩卡玻璃",
+        "material": "",
+        "status": "in_stock",
+        "quantity": 1,
+        "sourceCodes": [
+          "KWAD27NAL02SU04"
+        ],
+        "note": "可用 1 · 摩卡色"
+      }
+    ],
+    "stockNote": "1 个完整现货配置"
   },
   {
     "id": "naba21",
@@ -3077,20 +3165,6 @@ window.SIFAS_PRODUCTS = [
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [
       {
-        "variantId": "OSKA6AL02LE13",
-        "productRef": "OSKA6",
-        "frameColor": "摩卡色",
-        "tabletopType": "",
-        "tabletopColor": "",
-        "material": "",
-        "status": "in_stock",
-        "quantity": 10,
-        "sourceCodes": [
-          "OSKA6AL02LE13"
-        ],
-        "note": "可用 10 · 摩卡色"
-      },
-      {
         "variantId": "OSKA6AL04PF01",
         "productRef": "OSKA6",
         "frameColor": "白色",
@@ -3105,7 +3179,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 10 · 白色 / 白色网布"
       }
     ],
-    "stockNote": "2 个完整现货配置"
+    "stockNote": "1 个完整现货配置"
   },
   {
     "id": "oska24n",
@@ -3677,11 +3751,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "",
         "status": "in_stock",
-        "quantity": 2,
+        "quantity": 4,
         "sourceCodes": [
           "OXFO4LE04"
         ],
-        "note": "可用 2 · 黑色"
+        "note": "可用 4 · 黑色"
       }
     ],
     "stockNote": "1 个完整现货配置"
@@ -4544,11 +4618,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "棕色编织",
         "status": "in_stock",
-        "quantity": 1,
+        "quantity": 2,
         "sourceCodes": [
           "YAKI30AL08YA11"
         ],
-        "note": "可用 1 · 灰色 / 棕色编织"
+        "note": "可用 2 · 灰色 / 棕色编织"
       },
       {
         "variantId": "YAKI30AL08YA28",
@@ -4558,11 +4632,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "浅灰编织",
         "status": "in_stock",
-        "quantity": 2,
+        "quantity": 1,
         "sourceCodes": [
           "YAKI30AL08YA28"
         ],
-        "note": "可用 2 · 灰色 / 浅灰编织"
+        "note": "可用 1 · 灰色 / 浅灰编织"
       }
     ],
     "stockNote": "2 个完整现货配置"
